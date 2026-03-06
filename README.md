@@ -1,11 +1,12 @@
-# 🚲 My Bike — Urban Smart E-Bikes
-
-> *Shift your ride, not gears. Find the fastest way to move in the city as the bike adapts intuitively to power the speed you need.*
-
-Welcome to the repository for the **My Bike** landing page! This project is a modern, fully responsive promotional website designed to showcase a premium line of smart urban e-bikes. 
-
-🌍 **[Explore the Live Demo Here](https://pupsao.github.io/landing-page/)**
-
+<div align="center">
+  <h1>🚲 My Bike — Urban Smart E-Bikes</h1>
+  
+  <p>Shift your ride, not gears. Find the fastest way to move in the city as the bike adapts intuitively to power the speed you need.</p>
+  
+  <p>Welcome to the repository for the <strong>My Bike</strong> landing page! This project is a modern, fully responsive promotional website designed to showcase a premium line of smart urban e-bikes.</p>
+  
+  <h3>🌍 <a href="YOUR_DEMO_LINK_HERE">Explore the Live Demo Here</a></h3>
+</div>
 ---
 
 ## ✨ Project Highlights
