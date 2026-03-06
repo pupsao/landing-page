@@ -7,7 +7,6 @@
   
   <h3>🌍 <a href="YOUR_DEMO_LINK_HERE">Explore the Live Demo Here</a></h3>
 </div>
----
 
 ## ✨ Project Highlights
 
