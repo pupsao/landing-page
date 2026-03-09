@@ -5,7 +5,7 @@
   
   <p>Welcome to the repository for the <strong>My Bike</strong> landing page! This project is a modern, fully responsive promotional website designed to showcase a premium line of smart urban e-bikes.</p>
   
-  <h3>🌍 <a href="YOUR_DEMO_LINK_HERE">Explore the Live Demo Here</a></h3>
+  <h3>🌍 <a href="https://pupsao.github.io/landing-page/">Explore the Live Demo Here</a></h3>
 </div>
 
 ## ✨ Project Highlights
